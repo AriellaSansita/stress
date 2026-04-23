@@ -1,107 +1,87 @@
-# Testing Report
-> MindfulWork App — Smart Stress Relief Pod System
+TESTING REPORT
+Project: MindfulWork App — Smart Stress Relief Pod System
+Testing Method: Usability Testing with Prototype
+Number of Test Users: 5
+Testing Tool Used: Figma / Canva Prototype Walkthrough
 
----
+TEST USERS
+User 1 — Female, 24, Intern
+User 2 — Male, 35, Marketing Manager
+User 3 — Female, 29, Customer Support Agent
+User 4 — Male, 40, HR Executive
+User 5 — Female, 31, Graphic Designer
 
-## Testing Overview
+TESTING PROCESS
+Each user was asked to:
 
-| Field | Details |
-|---|---|
-| **Testing Method** | Usability Testing with Prototype Walkthrough |
-| **Number of Test Users** | 5 |
-| **Testing Tool** | Figma / Canva Prototype |
-| **Date of Testing** | April 2026 |
+Log into the app
+Check their stress level on the home screen
+Book a pod session
+Start a session and adjust pod settings
+Complete a breathing exercise
+Fill in the post-session journal
+View their profile and preferences
 
----
 
-## Test Users
+OBSERVATIONS
+User 1 — Sara, 24 | Intern
 
-| User | Gender | Age | Job Role |
-|---|---|---|---|
-| User 1 | Female | 24 | Intern |
-| User 2 | Male | 35 | Marketing Manager |
-| User 3 | Female | 29 | Customer Support Agent |
-| User 4 | Male | 40 | HR Executive |
-| User 5 | Female | 31 | Graphic Designer |
+Navigated the home screen easily
+Found the "How are you feeling right now?" check-in intuitive
+Slightly confused about the difference between Book Pod and Start Session
+Enjoyed the Breathe With Me screen and found the timer helpful
+Suggestion: Add a short tooltip explaining what each button does
 
----
+User 2 — Aryan, 35 | Marketing Manager
 
-## Testing Process
+Immediately noticed the AI Suggestion banner and found it useful
+Liked the MoodSync AI active banner on the Pod Control screen
+Wanted more music options beyond Ambient
+Found the journal sliders easy to use
+Suggestion: Add more music genre options in preferences
 
-Each user was asked to complete the following tasks:
+User 3 — Saanvi, 29 | Customer Support Agent
 
-1. Log into the app
-2. Check their stress level on the home screen
-3. Book a pod session
-4. Start a session and adjust pod settings
-5. Complete a breathing exercise
-6. Fill in the post-session journal
-7. View their profile and preferences
+Took a moment to find the Sessions tab
+Liked the Upcoming / Past / Cancelled tabs layout
+Found the stress reduction percentage on the journal very motivating
+Suggestion: Make the Sessions tab more prominent in the bottom navigation
 
----
+User 4 — Sameer, 40 | HR Executive
 
-## User Observations
+Found the app clean and easy to navigate
+Appreciated the private and discreet design
+Wanted a way to set the app to silent/do not disturb mode during sessions
+Suggestion: Add a Do Not Disturb toggle on the Pod Control screen
 
-### User 1 — Female, 24 | Intern
-- Navigated the home screen easily
-- Found the "How are you feeling right now?" check-in intuitive
-- Slightly confused about the difference between Book Pod and Start Session
-- Enjoyed the Breathe With Me screen and found the timer helpful
-- **Suggestion:** Add a short tooltip explaining what each button does
+User 5 — Emma, 31 | Graphic Designer
 
-### User 2 — Male, 35 | Marketing Manager
-- Immediately noticed the AI Suggestion banner and found it useful
-- Liked the MoodSync AI active banner on the Pod Control screen
-- Wanted more music options beyond Ambient
-- Found the journal sliders easy to use
-- **Suggestion:** Add more music genre options in preferences
+Loved the calming color scheme
+Found the 7-day progress chart very clear and useful
+Wanted the lighting slider on the Pod Control screen to show a preview of the color
+Suggestion: Add a visual lighting preview when adjusting the slider
 
-### User 3 — Female, 29 | Customer Support Agent
-- Took a moment to find the Sessions tab
-- Liked the Upcoming / Past / Cancelled tabs layout
-- Found the stress reduction percentage on the journal very motivating
-- **Suggestion:** Make the Sessions tab more prominent in the bottom navigation
 
-### User 4 — Male, 40 | HR Executive
-- Found the app clean and easy to navigate
-- Appreciated the private and discreet design
-- Wanted a way to set the app to silent mode during sessions
-- **Suggestion:** Add a Do Not Disturb toggle on the Pod Control screen
+FEEDBACK SUMMARY
+Home Screen clarity-4.6
+AI Suggestion usefulness-4.8
+Pod booking flow-4.2
+Pod Control sliders-4.4
+Breathe With Me screen-4.7
+Post-Session Journal-4.5
+Overall app experience-4.6
 
-### User 5 — Female, 31 | Graphic Designer
-- Loved the calming color scheme
-- Found the 7-day progress chart very clear and useful
-- Wanted the lighting slider to show a visual preview of the color
-- **Suggestion:** Add a visual lighting preview when adjusting the slider
+ITERATIONS MADE BASED ON FEEDBACK
 
----
+Added tooltips on the home screen to clarify the difference between Book Pod and Start Session
+Added more music genre options in the Profile preferences section
+Made the Sessions tab slightly more prominent in the bottom navigation bar
+Added a Do Not Disturb toggle consideration for future iterations of the Pod Control screen
+Noted the lighting preview suggestion as a future enhancement for the Pod Control screen
 
-## Feedback Ratings
 
-| Feature | Average Rating (out of 5) |
-|---|---|
-| Home Screen Clarity | 4.6 |
-| AI Suggestion Usefulness | 4.8 |
-| Pod Booking Flow | 4.2 |
-| Pod Control Sliders | 4.4 |
-| Breathe With Me Screen | 4.7 |
-| Post-Session Journal | 4.5 |
-| Overall App Experience | 4.6 |
-
----
-
-## Iterations Made Based on Feedback
-
-| # | Feedback Received | Change Made |
-|---|---|---|
-| 1 | Confusion between Book Pod and Start Session | Added tooltips to clarify both buttons |
-| 2 | Wanted more music genre options | Added more options in Profile preferences |
-| 3 | Sessions tab hard to find | Made Sessions tab more prominent in navigation |
-| 4 | Wanted Do Not Disturb during sessions | Noted as future enhancement for Pod Control screen |
-| 5 | Wanted lighting color preview | Noted as future visual enhancement |
-
----
-
-## Conclusion
-
-Overall the prototype was received very positively by all 5 test users. The AI-driven personalization through MoodSync AI was highlighted as the standout feature. Users found the app intuitive, calming, and well-designed. All 5 compulsory features — Stress Tracking Dashboard, MoodSync AI, Pod Scheduler, Breathe With Me, and Post-Session Journal — were successfully understood and used by all test users without difficulty.
+CONCLUSION
+Overall the prototype was received very positively by all 5 test users. 
+The AI-driven personalization through MoodSync AI was highlighted as the standout feature. Users found the app intuitive, calming, and well-designed. 
+The main areas for improvement involve adding more customization options and minor navigation clarity improvements. 
+All critical features — stress tracking, pod scheduling, guided breathing, post-session journaling, and AI recommendations — were successfully understood and used by all test users without difficulty.
