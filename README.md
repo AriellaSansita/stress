@@ -84,12 +84,7 @@ Built using Figma / Canva / Adobe XD
 
 | Purpose | Tool |
 |---|---|
-| Prototyping | Figma / Canva / Adobe XD |
+| Prototyping | Figma |
 | Empathy Mapping | Miro |
-| Mind Mapping | MindMeister |
-| Personas | Miro / Canva |
+| Personas | Miro|
 | Documentation | Google Docs / PDF |
-
----
-
-## Repository Structure
