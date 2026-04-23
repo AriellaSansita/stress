@@ -1,14 +1,7 @@
-Here is the ideation document without tables — copy and paste into Google Docs:
-
----
-
   IDEATION DOCUMENT  
-Project: MindfulWork App — Smart Stress Relief Pod System
-Method: Brainstorming and Mind Mapping using Miro and MindMeister
 
----
 
-  BRAINSTORMING PROCESS  
+BRAINSTORMING PROCESS  
 
 Based on the empathy maps and personas created, the following core user needs were identified:
 - Employees need quick, private stress relief during work hours
@@ -16,9 +9,7 @@ Based on the empathy maps and personas created, the following core user needs we
 - Sessions must be short enough to fit into a busy workday
 - The experience must feel calming and non-intrusive
 
----
-
-  IDEAS GENERATED  
+ IDEAS GENERATED  
 
 Stress Input Methods:
 - Mood check-in via emoji slider on home screen
@@ -50,9 +41,8 @@ Personalization:
 - Quick preset modes — Relax, Focus, Sleep, Energy Boost
 - MoodSync AI auto-configures pod based on current stress data
 
----
-
-  5 COMPULSORY FEATURES SELECTED  
+ 
+ 5 COMPULSORY FEATURES SELECTED  
 
 1. MoodSync AI — addresses the need for instant personalized relaxation without manual setup
 2. Breathe With Me — provides immediate relief through guided breathing at any stress level
@@ -60,9 +50,7 @@ Personalization:
 4. Post-Session Journal — helps users track improvement and reflect on their mental state over time
 5. Stress Tracking Dashboard — gives users visibility of their stress patterns and motivates continued use
 
----
-
-  ADDITIONAL FEATURES INCLUDED  
+ ADDITIONAL FEATURES INCLUDED  
 
 - Wellness streak badge to encourage daily use
 - Quick check-in prompt on home screen
@@ -71,8 +59,6 @@ Personalization:
 - AI-recommended booking time based on peak stress hours
 - Slot availability indicator on sessions screen
 - Quick preset modes: Relax, Focus, Sleep, Energy Boost
-
----
 
 IDEAS NOT INCLUDED AND WHY  
 
