@@ -21,7 +21,7 @@ Skips lunch, stays late, scrolls phone during breaks instead of actually resting
 
 ---
 
-**EMPATHY MAP 2 — JAMES, 35 | Marketing Manager**
+**EMPATHY MAP 2 — ARYN, 35 | Marketing Manager**
 
 THINKS
 "What if my presentation goes wrong?"
@@ -44,7 +44,7 @@ Paces around, drinks too much coffee, avoids asking for help, skips meditation b
 
 ---
 
-**EMPATHY MAP 3 — LILY, 24 | Intern**
+**EMPATHY MAP 3 — PRIYA, 24 | Intern**
 
 THINKS
 "Am I doing this right?"
@@ -67,7 +67,7 @@ Works through lunch, listens to music quietly to cope, avoids asking questions
 
 ---
 
-**EMPATHY MAP 4 — DAVID, 40 | HR Executive**
+**EMPATHY MAP 4 — SAMEER, 40 | HR Executive**
 
 THINKS
 "There aren't enough hours in the day"
@@ -113,7 +113,7 @@ Puts headphones on, stares at screen without producing work, takes long bathroom
 
 ---
 
-**EMPATHY MAP 6 — MICHAEL, 45 | Finance Manager**
+**EMPATHY MAP 6 — VIHAAN, 45 | Finance Manager**
 
 THINKS
 "One mistake and the whole report is wrong"
@@ -136,7 +136,7 @@ Works 10-hour days, eats at his desk, never books wellness sessions even when av
 
 ---
 
-**EMPATHY MAP 7 — SOPHIE, 29 | Customer Support Agent**
+**EMPATHY MAP 7 — SAANVI, 29 | Customer Support Agent**
 
 THINKS
 "I deal with angry customers all day and have nowhere to release that stress"
@@ -182,7 +182,7 @@ Forgets to eat, skips stand-ups, sits in the same position for hours, ignores st
 
 ---
 
-**EMPATHY MAP 9 — CLAIRE, 33 | Project Manager**
+**EMPATHY MAP 9 — KABIR, 33 | Project Manager**
 
 THINKS
 "I'm responsible for 3 projects at once and everything depends on me"
@@ -205,7 +205,7 @@ Checks emails at midnight, never fully switches off, cancels her own wellness bo
 
 ---
 
-**EMPATHY MAP 10 — TYLER, 26 | Sales Executive**
+**EMPATHY MAP 10 — ADITI, 26 | Sales Executive**
 
 THINKS
 "I haven't hit my target this month and my job feels at risk"
