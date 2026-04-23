@@ -1,10 +1,16 @@
+# Candidate Name - Ariella Sansita M
+
+# Candidate Registration Number - 1000470
+
+# CRS Name: Artificial Intelligence
+
+# Course Name - Design_Thinking_for_Innovation
+
+# School name - Birla Open Minds International School, Kollur
+
+# Summative Assessment
+
 # MindfulWork App – Stress Free Offices
-**Student Name:** Your Name
-**Student ID:** Your ID
-**CRS:** Artificial Intelligence
-**Course:** Design Thinking for Innovation
-**School:** Your School Name
-**Scenario:** Scenario 1 – Build Mindful Work App Prototype
 
 ## Project Objective
 
