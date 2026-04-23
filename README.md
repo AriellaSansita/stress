@@ -90,6 +90,9 @@ All screen screenshots are in /Wireframes/
 ## Tools Used
 
 Figma — App screen design and clickable prototype
+
 Miro — Empathy mapping, brainstorming
+
 Google Forms — User surveys
+
 GitHub — Repository and documentation
